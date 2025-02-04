@@ -1,0 +1,20 @@
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\bin\Debug\SeriPort Veri Okuma.exe
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\bin\Debug\SeriPort Veri Okuma.pdb
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort_Veri_Okuma.Form1.resources
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort_Veri_Okuma.Properties.Resources.resources
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.csproj.GenerateResource.Cache
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.exe
+c:\users\sakbulut\documents\visual studio 2010\Projects\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.pdb
+C:\Users\SAKBULUT\Desktop\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.exe
+C:\Users\SAKBULUT\Desktop\SeriPort Veri Okuma\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.pdb
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\bin\Debug\SeriPort Veri Okuma.exe.config
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\bin\Debug\SeriPort Veri Okuma.exe
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\bin\Debug\SeriPort Veri Okuma.pdb
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.csproj.AssemblyReference.cache
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort_Veri_Okuma.Form1.resources
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort_Veri_Okuma.Properties.Resources.resources
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.csproj.GenerateResource.cache
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.csproj.CoreCompileInputs.cache
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.exe
+C:\Users\Optimum Sinerji\Desktop\RS232-Seri-Port-TURKER\SeriPort Veri Okuma\obj\x86\Debug\SeriPort Veri Okuma.pdb
